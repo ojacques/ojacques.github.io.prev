@@ -12,5 +12,6 @@ script: ./script/cibuild
 env:
   global:
   - NOKOGIRI_USE_SYSTEM_LIBRARIES=true # speeds up installation of html-proofer
+  - ASSET_HOST_URL=https://github.githubassets.com # Fix jemoji URLs
 
 sudo: false # route your build to the container-based infrastructure for a faster build
