@@ -34,7 +34,7 @@ bundle exec jekyll serve
 # Continuous Integration
 
 :us:/:gb:
-The site is built automatically by GitHub and rendered as  GitHub pages. In
+The site is built automatically by GitHub and rendered as GitHub pages. In
 addition, I'm using [Continuous
 Integration](https://travis-ci.org/ojacques/ojacques.github.io) to check for
 html issues and dead links.
