@@ -110,14 +110,13 @@ File/Share/Embed gives the following code:
   wdStartOn=1' width='500px' height='450px' frameborder='0'>
   This is an embedded 
   <a target='_blank' href='https://office.com'>Microsoft Office</a> 
-  document, powered by 
-  <a target='_blank' href='https://office.com/webapps'>Office Online</a>.
+  document, powered by Office Online.
 </iframe>
 ```
 
 Which renders like this:
 
-<iframe src='https://onedrive.live.com/embed?cid=39DBDCC13374E035&resid=39DBDCC13374E035%218296&authkey=AHLhvi8Bgy61boA&em=2&wdStartOn=1' width='500px' height='450px' frameborder='0'>This is an embedded <a target='_blank' href='https://office.com'>Microsoft Office</a> document, powered by <a target='_blank' href='https://office.com/webapps'>Office Online</a>.</iframe>
+<iframe src='https://onedrive.live.com/embed?cid=39DBDCC13374E035&resid=39DBDCC13374E035%218296&authkey=AHLhvi8Bgy61boA&em=2&wdStartOn=1' width='500px' height='450px' frameborder='0'>This is an embedded <a target='_blank' href='https://office.com'>Microsoft Office</a> document, powered by Office Online.</iframe>
 
 ## Embedding PowerPoint
 
@@ -131,14 +130,13 @@ File/Share/Embed gives the following code:
   width='610px' height='367px' frameborder='0'>
   This is an embedded 
   <a target='_blank' href='https://office.com'>Microsoft Office</a> 
-  presentation, powered by 
-  <a target='_blank' href='https://office.com/webapps'>Office Online</a>.
+  presentation, powered by Office Online.
 </iframe>
 ```
 
 Which renders like this:
 
-<iframe src='https://onedrive.live.com/embed?cid=39DBDCC13374E035&resid=39DBDCC13374E035%218298&authkey=ANJm_8_B48XNOhg&em=2&wdAr=1.7777777777777777' width='610px' height='367px' frameborder='0'>This is an embedded <a target='_blank' href='https://office.com'>Microsoft Office</a> presentation, powered by <a target='_blank' href='https://office.com/webapps'>Office Online</a>.</iframe>
+<iframe src='https://onedrive.live.com/embed?cid=39DBDCC13374E035&resid=39DBDCC13374E035%218298&authkey=ANJm_8_B48XNOhg&em=2&wdAr=1.7777777777777777' width='610px' height='367px' frameborder='0'>This is an embedded <a target='_blank' href='https://office.com'>Microsoft Office</a> presentation, powered by Office Online.</iframe>
 
 # Conclusion
 
