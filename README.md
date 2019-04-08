@@ -15,16 +15,15 @@ J'utilise l'excellent theme Jekyll [Minimal Mistakes Jekyll Theme](https://mmist
 # Running locally
 
 :us:/:gb:
-To write posts, I run the site locally on my Windows 10 PC, using Windows 10 Bash.
-Nice set of instructions [here](http://daverupert.com/2016/04/jekyll-on-windows-with-bash/)
+To write posts, I run the site locally on my Windows 10 PC, using Windows 10's WSL.
+
 ```
 bundle exec jekyll serve
 ```
 
 :fr:
 Pour écrire des posts, je fais fonctionner le site locallement sur mon 
-PC Windows 10 avec Windows 10 bash. Il y a des instructions pour installer
-Ruby et Jekyll sur Windows 10 [ici](http://daverupert.com/2016/04/jekyll-on-windows-with-bash/)
+PC Windows 10 avec Windows 10 WSL.
 
 ```
 bundle exec jekyll serve
