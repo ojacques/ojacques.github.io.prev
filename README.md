@@ -10,7 +10,7 @@ The awesome Jekyll theme is based on [Minimal Mistakes Jekyll Theme](https://mmi
 :fr:
 Ceci est le code de mon site web [ojacques.github.io](https://ojacques.github.io).
 
-J'utilise l'excellent theme Jekyll [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/)
+J'utilise l'excellent theme Jekyll [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/).
 
 # Running locally
 
