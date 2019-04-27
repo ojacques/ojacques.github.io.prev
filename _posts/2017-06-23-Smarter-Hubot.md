@@ -61,11 +61,11 @@ prescriptive way.
 
 My PoC model has 2 intents: `restart-service` and `health-check`
 
-![intents]({{site.url}}/images/api.ai.intent.jpg)
+![intents]({{ '/assets/images/api.ai.intent.jpg' | relative_url }})
 
 It also has 2 entities: `environment` and `service`
 
-![service entity]({{site.url}}/images/api.ai.entity.service.jpg)
+![service entity]({{ '/assets/images/api.ai.entity.service.jpg' | relative_url }})
 
 ## Hubot
 
@@ -81,7 +81,7 @@ on.
 
 This is the kind of dialog I can get with this simple model:
 
-![dialog]({{site.url}}/images/smartbot-api-ai.gif)
+![dialog]({{ '/assets/images/smartbot-api-ai.gif' | relative_url }})
 
 Quite happy with how the conversation flows! It's much more natural. there
 is actually less room for errors, and we can refine the dialog as we
