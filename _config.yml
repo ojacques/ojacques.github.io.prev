@@ -8,7 +8,7 @@ email: ojacques2@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Olivier Jacques on DevOps and ChatOps.
 baseurl: #/blog
-url: https://ojacques.github.io
+url: https://www.olivierjacques.com
 #url: http://localhost:4000
 twitter_username: ojacques2
 github_username: ojacques
