@@ -21,7 +21,7 @@ and it blew my mind.
 
 # From IRC to rich chat with bots
 
-![image-left]({{ site.url }}{{ site.baseurl }}/images/hubot.png){: .align-left} 
+![image-left]({{ '/assets/images/hubot.png' | relative_url }}){: .align-left} 
 Our team really started to use ChatOps in 2014 with IRC and 
 [Hubot](https://hubot.github.com). We implemented few scripts for our bot, 
 like checking for our public cloud consumption, restart services, and even

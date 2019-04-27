@@ -3,7 +3,7 @@ title:  "Docker or Ansible?"
 excerpt: "What I answer when one ask me if they should go for Docker or Ansible"
 published: true
 header:
-  image: https://ojacques.github.io/images/docker.or.ansible.jpg
+  image: https://ojacques.github.io/assets/images/docker.or.ansible.jpg
 categories:
 - blog
 tags:
@@ -15,7 +15,7 @@ starting to automate deployments. Those teams have been running their applicatio
 for a while either on bare metal or VMs and, as they are on the journey to 
 continuous delivery, this topic comes up often.
 
-![Docker or Ansible?](/images/docker.or.ansible.jpg)
+![Docker or Ansible?]({{ '/assets/images/docker.or.ansible.jpg' | relative_url }})
 
 ## Starting to answer
 

@@ -3,7 +3,7 @@ title:  "Technical documentation in GitHub :octocat:"
 excerpt: "Writing technical documentation in GitHub using Markdown and embedding other document types such as Word, Excel, PowerPoint and Visio"
 published: true
 header:
-  image: https://ojacques.github.io/images/blog-tech-doc-embed-office.jpg
+  image: https://ojacques.github.io/assets/images/blog-tech-doc-embed-office.jpg
 categories:
 - blog
 tags:
@@ -40,7 +40,7 @@ And even emojis :smile: !
 
 Renders like so:
 
-![markdown sample](/images/markdown.sample.jpg)
+![markdown sample]({{ '/assets/images/markdown.sample.jpg' | relative_url }})
 
 There is a full reference guide available 
 :notebook: [here](https://guides.github.com/features/mastering-markdown/).
@@ -68,7 +68,7 @@ least, all of the documentation is visible through GitHub.
 The good news is that - when hosted on Office365 or Onedrive - Word, Excel, Powerpoint and Visio 
 files can all be viewed in a web browser and shared using File/Share/Embed:
 
-![File Share embed](/images/office-embed.gif)
+![File Share embed]({{ '/assets/images/office-embed.gif' | relative_url }})
 
 This creates code to add in your html file, as an iframe. 
 
