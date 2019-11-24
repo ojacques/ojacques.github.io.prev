@@ -47,7 +47,7 @@ the hero of The Phoenix Project. [Gene Kim](https://twitter.com/RealGeneKim)
 introduces a brand new character, **Maxine Chambers** - Developer Lead and
 Architect.
 
-![]({{ '/assets/images/unicorn-maxine.jpg' | relative_url }})
+![Maxine]({{ '/assets/images/unicorn-maxine.jpg' | relative_url }})
 
 Yes, you got it, this time, we are going to dive deeper in the developer's
 world. Not that the book is all about developers, debugging, Continuous
