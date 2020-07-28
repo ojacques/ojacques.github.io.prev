@@ -15,7 +15,7 @@ I went through an online AWS certification exam instead of a test center. Here i
 
 ## Getting certified
 
-I have been working - hands on - in an AWS cloud environment since 2017. I learned a lot since then, and it was time to get certified. [AWS Certified Solutions Architect - Associate](https://aws.amazon.com/certification/certified-solutions-architect-associate/) looked like the the best fit for me to get started.
+I have been working - hands on - in an AWS cloud environment since 2017. I learned a lot since then, and it was time to get certified. [AWS Certified Solutions Architect - Associate](https://aws.amazon.com/certification/certified-solutions-architect-associate/) looked like the best fit for me to get started.
 
 Both a challenge and also a way to make sure I was not missing obvious notions or services I should have known when designing architectures.
 
