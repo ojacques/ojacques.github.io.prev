@@ -53,7 +53,7 @@ plugins:
 author:
   name   : "Olivier Jacques"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Helping companies to adopt DevOps through DevOps Dojos. Less talking, more doing."
+  bio    : "Reducing cycle time and mean time to recover from outages through DevOps Dojos. Less talking, more doing."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
