@@ -25,7 +25,7 @@ As an example (and this is a common use case), I got 30 minutes extra as English
 
 See all the details on the [AWS certification page](https://aws.amazon.com/certification/certified-solutions-architect-associate/).
 
-![]({{ '/assets/images/online-proctored-exam-cert.jpg' | relative_url }})
+![Fake AWS certificate]({{ '/assets/images/online-proctored-exam-cert.jpg' | relative_url }})
 
 ## Preparing
 
@@ -41,7 +41,7 @@ This ☝, plus the AWS white papers ([AWS Well-architected framework and the fiv
 
 To pass the exam, you have the choice between a test center or online. As the nearest test center is one hour drive from home (office), and because I care for my time and my footprint on earth 🌍, I was keen to avoid a train 🚅 or car 🚗 roundtrip to the test center.
 
-![]({{ '/assets/images/online-proctored-exam-map.jpg' | relative_url }})
+![Map from home to test center]({{ '/assets/images/online-proctored-exam-map.jpg' | relative_url }})
 
 Online was definitely the way to go. AWS has two partners for testing: PSI and Pearson VUE. At the time of writing, Pearson VUE is the only one to offer an online test, in addition to physical test centers.
 
@@ -51,7 +51,7 @@ So, I went with an **online test with Pearson VUE**.
 
 Scheduling can be done online. That is most certainly the easiest way. But I could not use this option: when you have a special accomodation (even something trivial such as ESL / **E**nglish as **S**econd **L**anguage), the test must be scheduled by phone.
 
-![]({{ '/assets/images/online-proctored-exam-esl-30.jpg' | relative_url }})
+![ESL 30 minutes message]({{ '/assets/images/online-proctored-exam-esl-30.jpg' | relative_url }})
 
 ...And I have to say that scheduling by phone was a very sub-par experience for me. Here is how it went:
 
@@ -67,7 +67,7 @@ So, here I go, calling the number again. No trace of my call apparently - so I h
 
 Overall, I spent an hour and 10 minutes on the phone to schedule the exam. I surely hope the next time will be easier!
 
-![]({{ '/assets/images/online-proctored-exam-phone-log.jpg' | relative_url }})
+![Phone log - spent 1h10m to schedule the exam]({{ '/assets/images/online-proctored-exam-phone-log.jpg' | relative_url }})
 
 ## Re-scheduling
 
@@ -96,7 +96,7 @@ Here are few things I had to go through myself to prepare my home office:
 
 The check-in happens PRIOR the actual exam, just after clicking the "Begin Exam" and before taking the actual exam. Here are the steps:
 
-![]({{ '/assets/images/online-proctored-exam-check-in-process.jpg' | relative_url }})
+![Check-in process steps]({{ '/assets/images/online-proctored-exam-check-in-process.jpg' | relative_url }})
 
 * System Check: a small test is executed to check that your webcam, your microphone and your internet all work as expected. This is done on your PC/MAC.
 * Your picture: take a picture of yourself on a solid background. This is done with a mobile web site (or your PC/MAC + Webcam)
