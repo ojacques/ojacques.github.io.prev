@@ -33,7 +33,7 @@ There are many resources available to prepare for this exam. This is not the pur
 
 * [Stephane Marek's course on Udemy](https://links.datacumulus.com/aws-certified-sa-associate-coupon) to get through all the concepts
 * [Stephane Marek's practice tests](https://links.datacumulus.com/aws-cert-solution-architect-pt-coupon)
-* [Jon Bonso's practice tests](https://tutorialsdojo.com/aws-certified-solutions-architect-associate-saa-c02/)
+* [Jon Bonso's practice tests](https://www.udemy.com/course/aws-certified-solutions-architect-associate-amazon-practice-exams-saa-c02/) - from its [AWS Certified SAA C02 study guide](https://tutorialsdojo.com/aws-certified-solutions-architect-associate-saa-c02/)
 
 This ☝, plus the AWS white papers ([AWS Well-architected framework and the five pillars](https://aws.amazon.com/architecture/well-architected)) were enough for me to pass the exam.
 
