@@ -1,7 +1,7 @@
 {% if page.author_profile or layout.author_profile or page.sidebar %}
   <div class="sidebar sticky">
   {% if page.author_profile or layout.author_profile %}{% include author-profile.html %}{% endif %}
-  <p><a href="https://travis-ci.org/ojacques/ojacques.github.io"><img src="https://travis-ci.org/ojacques/ojacques.github.io.svg?branch=master" style="max-width:100px;"/></a></p>
+  <p><a href="https://github.com/ojacques/ojacques.github.io/actions?query=workflow%3A%22Jekyll+site+CI%22"><img src="https://github.com/ojacques/ojacques.github.io/workflows/Jekyll%20site%20CI/badge.svg" style="max-width:150px;"/></a></p>
   {% if page.sidebar %}
     {% for s in page.sidebar %}
       {% if s.image %}
