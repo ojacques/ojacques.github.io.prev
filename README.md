@@ -1,4 +1,4 @@
-[![Build status](https://travis-ci.org/ojacques/ojacques.github.io.svg?branch=master)](https://travis-ci.org/ojacques/ojacques.github.io)
+![Build status](https://github.com/ojacques/ojacques.github.io/workflows/Jekyll%20site%20CI/badge.svg)
 
 # ojacques.github.io
 
