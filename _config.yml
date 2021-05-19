@@ -74,6 +74,9 @@ footer:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/ojacques"
 
+comments:
+  provider: "custom"
+
 defaults:
   # _posts
   - scope:
